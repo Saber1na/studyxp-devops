@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d56d75b-ad8c-4f2e-874c-70dbee48c961" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="32tDgEkmvD4n5zDQmTKbNpExv7w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d56d75b-ad8c-4f2e-874c-70dbee48c961" name="Changes" comment="" />
+      <created>1758231085679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758231085679</updated>
+    </task>
+    <servers />
+  </component>
+</project>
