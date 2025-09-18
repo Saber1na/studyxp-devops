@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   studyxp-database:
     image: mysql:8.0
@@ -14,15 +12,21 @@ services:
     volumes:
       - studyxp-db-data:/var/lib/mysql
 
-  studyxp-app-1:
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p$$MYSQL_ROOT_PASSWORD"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  studyxp-app:
     build: ./backend
     container_name: studyxp-app
+
     depends_on:
-      - studyxp-database
+      studyxp-database:
+        condition: service_healthy
     ports:
       - "8080:8080"
-    environment:
-      - DB_HOST=studyxp-database
 
 volumes:
   studyxp-db-data:
