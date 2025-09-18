@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  studyxp-database:
+    image: mysql:8.0
+    container_name: studyxp-mysql-db
+    environment:
+      MYSQL_DATABASE: studyxp
+      MYSQL_USER: docker
+      MYSQL_PASSWORD: docker
+      MYSQL_ROOT_PASSWORD: rootpassword
+    ports:
+      - "3306:3306"
+    volumes:
+      - studyxp-db-data:/var/lib/mysql
+
+  studyxp-app-1:
+    build: ./backend
+    container_name: studyxp-app
+    depends_on:
+      - studyxp-database
+    ports:
+      - "8080:8080"
+    environment:
+      - DB_HOST=studyxp-database
+
+volumes:
+  studyxp-db-data:

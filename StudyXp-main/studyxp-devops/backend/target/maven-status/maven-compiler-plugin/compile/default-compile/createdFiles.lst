@@ -1,0 +1,14 @@
+com\example\StudyXp\Controller\RecompensaController.class
+com\example\StudyXp\Service\UsuarioService.class
+com\example\StudyXp\Service\TarefaService.class
+com\example\StudyXp\Model\StatusTarefa.class
+com\example\StudyXp\Model\Usuario.class
+com\example\StudyXp\Controller\UsuarioController.class
+com\example\StudyXp\Model\Tarefa.class
+com\example\StudyXp\Repository\RecompensaRepository.class
+com\example\StudyXp\Controller\TarefaController.class
+com\example\StudyXp\Repository\TarefaRepository.class
+com\example\StudyXp\Model\Recompensa.class
+com\example\StudyXp\Repository\UsuarioRepository.class
+com\example\StudyXp\Service\RecompensaService.class
+com\example\StudyXp\StudyXpApplication.class
