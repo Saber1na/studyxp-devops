@@ -5,12 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d56d75b-ad8c-4f2e-874c-70dbee48c961" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Controller/RecompensaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/RecompensaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Controller/TarefaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/TarefaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/Recompensa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Recompensa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/StatusTarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/StatusTarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Repository/RecompensaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/repository/RecompensaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Repository/TarefaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/repository/TarefaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/repository/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Service/RecompensaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/RecompensaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Service/TarefaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/TarefaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Service/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/UsuarioService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
