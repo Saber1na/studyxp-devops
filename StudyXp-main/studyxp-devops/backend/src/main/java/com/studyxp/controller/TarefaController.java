@@ -7,7 +7,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
+import org.springframework.web.bind.annotation.PostMapping; // Adicione esta importação
+import org.springframework.web.bind.annotation.RequestBody;
 import java.util.List;
 
 @RestController
@@ -21,5 +22,11 @@ public class TarefaController {
     public ResponseEntity<List<Tarefa>> getAllTarefas() {
         List<Tarefa> tarefas = tarefaService.listarTodasAsTarefas();
         return ResponseEntity.ok(tarefas);
+    }
+
+    @PostMapping
+    public ResponseEntity<Tarefa> criarTarefa(@RequestBody Tarefa tarefa) {
+        Tarefa novaTarefa = tarefaService.criarNovaTarefa(tarefa);
+        return ResponseEntity.ok(novaTarefa);
     }
 }

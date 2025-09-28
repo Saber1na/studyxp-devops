@@ -5,21 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d56d75b-ad8c-4f2e-874c-70dbee48c961" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Controller/RecompensaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/RecompensaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Controller/TarefaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/TarefaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/Recompensa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Recompensa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/StatusTarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/StatusTarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Repository/RecompensaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/repository/RecompensaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Repository/TarefaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/repository/TarefaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/repository/UsuarioRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Service/RecompensaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/RecompensaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Service/TarefaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/TarefaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/Service/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/TarefaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/controller/TarefaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/StatusTarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/StatusTarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/model/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/TarefaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/src/main/java/com/studyxp/service/TarefaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Controller/RecompensaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Controller/TarefaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Controller/UsuarioController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Model/Recompensa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Model/StatusTarefa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Model/Tarefa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Model/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Repository/RecompensaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Repository/TarefaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Repository/UsuarioRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Service/RecompensaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Service/TarefaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/Service/UsuarioService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/classes/com/example/StudyXp/StudyXpApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/backend/target/test-classes/com/example/StudyXp/StudyXpApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/StudyXp-main/studyxp-devops/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +56,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.StudyXp [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3d56d75b-ad8c-4f2e-874c-70dbee48c961" name="Changes" comment="" />
